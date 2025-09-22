@@ -56,9 +56,15 @@ Jupyter Notebook – Interactive coding environment to combine code, visualizati
 SupplyChainForecasting/
 
 Data_Ingestion.py          # Loads raw dataset
+
 Data_Preprocessing.py      # Cleans the dataset
+
 Data_Transformation.py     # Transforms data for analysis
+
 Data_Storing.py            # Saves cleaned dataset as CSV (SupplyChainDataset)
+
 fbprophet.py               # Runs Facebook Prophet forecasting
+
 xgboost_supplychain.py     # Runs XGBoost forecasting
+
 README.txt                 # Project documentation
